@@ -4,3 +4,4 @@ GitHub Integration with Jenkins using Poll SCM.
 
 Automatic trigger verification
 Automatic trigger verification 2.0
+Automatic trigger verification 3
